@@ -1,5 +1,6 @@
-[![GitHub size](https://github-size-badge.herokuapp.com/arnaudmiribel/exts_application.svg)](https://github.com/miykael/gif_your_nifti/archive/master.zip)
-[![GitHub HitCount](http://hits.dwyl.io/arnaudmiribel/exts_application.svg)](http://hits.dwyl.io/miykael/gif_your_nifti)
+[![GitHub size](https://github-size-badge.herokuapp.com/arnaudmiribel/exts_application.svg)](https://github.com/arnaudmiribel/exts_application/archive/master.zip)
+[![HitCount](http://hits.dwyl.com/arnaudmiribel/exts_application.svg)](http://hits.dwyl.com/arnaudmiribel/exts_application)
+
 
 # EXTS Application
 
