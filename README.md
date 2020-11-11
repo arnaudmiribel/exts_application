@@ -6,7 +6,7 @@
 
 This repository contains the source code of my application to [EPFL Extension School](https://www.extensionschool.ch/) job ad as an instructor for the Applied Data Science & Machine Learning course.
 
-See it live here: [exts-application.herokuapp.com](exts-application.herokuapp.com)
+See it live here: [https://exts-application.herokuapp.com](https://exts-application.herokuapp.com)
 
 # Getting started
 
