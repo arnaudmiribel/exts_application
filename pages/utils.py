@@ -55,7 +55,7 @@ def write_answer(text: str):
 
 def write_instructor_expectation(text: str):
     return st.info(
-        f"""** ⓘ Instructor expectation:** 
+        f"""**ⓘ Instructor expectation:** 
     {text}"""
     )
 
