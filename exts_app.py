@@ -1,16 +1,16 @@
 """Main module for the streamlit app"""
 
 import streamlit as st
-import pages.home
-import pages.task1
-import pages.task2
-import pages.task3
+import pages.home as home
+import pages.task1 as task1
+import pages.task2 as task2
+import pages.task3 as task3
 
 PAGES = {
-    "Home": pages.home,
-    "Task 1: Naïves Bayes": pages.task1,
-    "Task 2: F1 score": pages.task2,
-    "Task 3: Scaling": pages.task3,
+    "Home": home,
+    "Task 1: Naïves Bayes": task1,
+    "Task 2: F1 score": task2,
+    "Task 3: Scaling": task3,
 }
 
 
